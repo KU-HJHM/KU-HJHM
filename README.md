@@ -1,4 +1,4 @@
-## Hi there 👋
+## 고려대학교 한자한문연구소 깃허브 계정입니다 👋
 
 <!--
 **KU-HJHM/KU-HJHM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
